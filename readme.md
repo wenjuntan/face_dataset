@@ -1,6 +1,6 @@
-#Face dataset
+# Face dataset
 
-##1.attribute
+## 1.attribute
 - IMDB-WIKI:年龄＋性别,年龄分布均衡  [官网](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
 - CelebA:40类属性 [官网](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 - CelebAMask-HQ:脸部图像分割　[github](https://github.com/switchablenorms/CelebAMask-HQ)
